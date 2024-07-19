@@ -1,0 +1,3 @@
+﻿  T2_TCP_SERVER_062230701416.cpp
+D:\Kuliah\Dokumen\SEMESTER 4\Praktek Pemrograman Jaringan\UAS\TCP\T2\T2_TCP_SERVER_062230701416\T2_TCP_SERVER_062230701416.cpp(50,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  T2_TCP_SERVER_062230701416.vcxproj -> D:\Kuliah\Dokumen\SEMESTER 4\Praktek Pemrograman Jaringan\UAS\TCP\T2\T2_TCP_SERVER_062230701416\x64\Debug\T2_TCP_SERVER_062230701416.exe
